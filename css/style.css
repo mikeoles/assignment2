@@ -1,0 +1,51 @@
+html{
+  color: white;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  background-image: url(http://wallpapercave.com/wp/775Lf3u.jpg);
+}
+
+h1{
+  color: darkblue;
+  text-align: center;
+}
+
+#formTitle{
+  font-family: party let;
+  border: 2px solid white;
+}
+
+input{
+  border: 3px solid black;
+}
+
+.signup-form{
+  display: inline-block;
+}
+
+.signup-form>form{
+  background-color: darkblue;
+  width: 100%;
+  text-align: center;
+  margin-left: 5%;
+  padding: 10px;
+}
+
+.warn{
+  color: red;
+}
+
+#imageOne{
+  float: right;
+  margin-top: 200px;
+  padding-right: 15%;
+  display: inline-block;
+  width: 600px;
+}
+
+.button {
+  width: 60px;
+  height: 30px;
+  background: lightgrey;
+  color: darkblue;
+  border-radius: 10px;
+}
